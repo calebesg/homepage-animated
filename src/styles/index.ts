@@ -7,6 +7,8 @@ export const Main = styled(motion.div)`
     overflow: hidden;
 
     .offset {
+      width: 100%;
+      height: 100%;
     }
 
     .a {
@@ -35,10 +37,14 @@ export const Main = styled(motion.div)`
 
     .b {
       background-color: #582534;
+      width: 100%;
+      height: 100%;
     }
 
     .c {
       background-color: #0a7397;
+      width: 100%;
+      height: 100%;
     }
   }
 
