@@ -11,6 +11,26 @@ export const Main = styled(motion.div)`
 
     .a {
       background-color: #f5f1ea;
+      height: 100%;
+      display: flex;
+      align-items: flex-end;
+
+      .left-side {
+        width: 50%;
+        height: 100%;
+        background-color: #7dbb91;
+      }
+
+      .right-side {
+        width: 50%;
+        height: 100%;
+
+        .right-image {
+          width: 100%;
+          height: 100%;
+          background-color: #7dbb91;
+        }
+      }
     }
 
     .b {
