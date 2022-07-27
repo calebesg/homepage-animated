@@ -12,7 +12,7 @@ export const Main = styled(motion.div)`
     }
 
     .a {
-      background-color: #f5f1ea;
+      background-color: #caf0f8;
       height: 100%;
       display: flex;
       align-items: flex-end;
@@ -20,7 +20,7 @@ export const Main = styled(motion.div)`
       .left-side {
         width: 50%;
         height: 100%;
-        background-color: #7dbb91;
+        background-color: #00b4d8;
       }
 
       .right-side {
@@ -30,34 +30,34 @@ export const Main = styled(motion.div)`
         .right-image {
           width: 100%;
           height: 100%;
-          background-color: #7dbb91;
+          background-color: #00b4d8;
         }
       }
     }
 
     .b {
-      background-color: #582534;
+      background-color: #0077b6;
       width: 100%;
       height: 100%;
     }
 
     .c {
-      background-color: #0a7397;
+      background-color: #03045e;
       width: 100%;
       height: 100%;
     }
   }
 
   .second {
-    background-color: green;
+    background-color: #90e0ef;
   }
 
   .third {
-    background-color: yellow;
+    background-color: #90e0ef;
   }
 
   .fourth {
-    background-color: blue;
+    background-color: #caf0f8;
   }
 `
 

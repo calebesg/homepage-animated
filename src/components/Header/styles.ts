@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 export const Container = styled(motion.header)`
   width: 100%;
   height: 100px;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(144, 224, 239, 0.6);
 
   position: fixed;
   top: 0;
